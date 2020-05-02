@@ -1,6 +1,6 @@
-It's just a simple sets of python programs that interact with an arduino and a bot twitter.
+It's just a simple set of python programs that interact with an arduino and a bot twitter.
 
-First, you must create an twitter. For that go here : https://developer.twitter.com/en
+First, you must create a twitter application. For that go here : https://developer.twitter.com/en
 
 You must install pySerial and Tweepy packages too.
 
