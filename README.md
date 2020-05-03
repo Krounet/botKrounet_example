@@ -10,5 +10,5 @@ https://www.tweepy.org/
 
 In this application, an Arduino detects when a button is pushed and send a message. A python script recovers this message via a serial communication between the Arduino and a PC. Then, the python script is connected to a bot that tweet a message on twitter.
 
-For the tests, my twitter bot is @BotKrounet
+You can find my personnal twitter bot at https://twitter.com/BotKrounet to watch my fascinating "wanderings" :).
 
